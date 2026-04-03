@@ -1,0 +1,35 @@
+[
+  {
+    "firstName": "أحمد",
+    "secondName": "محمد",
+    "thirdName": "علي",
+    "fourthName": "أحمد",
+    "phone": "01099999999",
+    "parentPhone": "01011111111",
+    "password": "hashed_password_here",
+    "grade": "الصف الثالث الثانوي",
+    "governorate": "القاهرة",
+    "area": "مدينة نصر",
+    "schoolName": "المتفوقين بنين",
+    "online": true,
+    "status": "ACTIVE",
+    "enabled": true
+  },
+  {
+    "firstName": "سارة",
+    "secondName": "إبراهيم",
+    "thirdName": "محمود",
+    "fourthName": "حسن",
+    "phone": "01188888888",
+    "parentPhone": "01222222222",
+    "password": "hashed_password_here",
+    "grade": "الصف الثاني الثانوي",
+    "governorate": "الجيزة",
+    "area": "الدقي",
+    "schoolName": "الأورمان بنات",
+    "online": false,
+    "centerName": "مركز النخبة",
+    "status": "PENDING",
+    "enabled": false
+  }
+]
